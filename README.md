@@ -6,6 +6,8 @@ My first task was to analyze the district-wide standardized test results. I was 
 
 The file to use is PyCitySchools.ipynb
 
+The analysis with charts is PyCitySchools.pdf
+
 My findings were as follows:
 Overall data across all districts show that average reading score is higher and as a result the percentage of students pass is higher.
  
