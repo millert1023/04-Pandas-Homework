@@ -1,8 +1,7 @@
 # Pandas Challenge - Academy of Py
 
 ## Background
-I am the Chief Data Scientist for the city’s school district.  The mayor and the school board has asked me to assist with the strategic decisions regarding future school budgets and priorities.
-My first task was to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. I was tasked to aggregate the data to and showcase obvious trends in school performance.
+Aggregate the data to and showcase obvious trends in school performance.
 
 ## Findings
 
